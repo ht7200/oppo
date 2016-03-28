@@ -1,0 +1,102 @@
+body{
+	color: #393939;
+	width: 100%;
+	height: 1300px;
+	font:16px 微软雅黑,arial;
+	margin: 0px;
+	padding: 0px;
+	border:0;
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+a{
+	text-decoration: none;	
+}
+
+.clear{
+	clear:both;
+}
+ul,ol,li{
+	list-style-type: none;
+}
+ul{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+.border{border:1px solid red;}
+h2{
+	color: #1f8657;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+p a{
+    color: #1f8657;
+    text-decoration: none;
+}
+img {
+    border: 0;
+    vertical-align: middle;
+    max-width: 100%;
+    height: auto;
+}
+.footer-info {
+    color: #7b7b7b;
+    font-size: 13px;
+    font-size: 0.8125rem;
+    text-align: center;
+    padding: 24px 0;
+    position: relative;
+}
+.news-photo {
+	width: 40px;
+    float: left;
+    display: block;
+}
+.wrapper {
+    padding: 0 0.75rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.lap-one-fifth {
+    width: 19%;
+}
+.lap-one-quarter {
+    width: 24%;
+}
+.lap-one-third, .lap-two-sixths {
+    width: 32%;
+}
+.badge-icon.xl {
+    width: 84px;
+    height: 84px;
+    line-height: 84px;
+}
+.access-icon .content {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-top: 10%;
+}
+.access-icon .badge-icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -42px 0 0 -42px;
+}
+.access-icon .heading {
+    font-size: 24px;
+    font-size: 1.25rem;
+}
+.gi {
+    display: inline-block;
+    vertical-align: top;
+}
